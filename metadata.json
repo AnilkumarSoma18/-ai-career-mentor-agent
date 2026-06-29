@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Mentor Agent",
+  "description": "An intelligent, multi-agent career mentor that analyzes resumes, identifies skill gaps, designs personalized 8-week roadmap learning paths, recommends hands-on projects, generates customized interview questions, and rewrites resumes for ATS optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
